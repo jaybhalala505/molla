@@ -35,7 +35,7 @@ const Blog = () => {
                             <SwiperSlide>
                                 <div className="blog-section-one">
                                     <div className="blog-img">
-                                        <img src="/assets/img/blog_1.webp" alt="blog_1" />
+                                        <img src="assets/img/blog_1.webp" alt="blog_1" />
                                     </div>
                                     <div className="blog-section-one-text">
                                         <div className="blog-data">
@@ -53,7 +53,7 @@ const Blog = () => {
                             <SwiperSlide>
                                 <div className="blog-section-one">
                                     <div className="blog-img">
-                                        <img src="/assets/img/blog_2.webp" alt="blog_2" />
+                                        <img src="assets/img/blog_2.webp" alt="blog_2" />
                                     </div>
                                     <div className="blog-section-one-text">
                                         <div className="blog-data">
@@ -71,7 +71,7 @@ const Blog = () => {
                             <SwiperSlide>
                                 <div className="blog-section-one">
                                     <div className="blog-img">
-                                        <img src="/assets/img/blog_3.webp" alt="blog_3" />
+                                        <img src="assets/img/blog_3.webp" alt="blog_3" />
                                     </div>
                                     <div className="blog-section-one-text">
                                         <div className="blog-data">
@@ -89,7 +89,7 @@ const Blog = () => {
                             <SwiperSlide>
                                 <div className="blog-section-one">
                                     <div className="blog-img">
-                                        <img src="/assets/img/blog_4.webp" alt="blog_4" />
+                                        <img src="assets/img/blog_4.webp" alt="blog_4" />
                                     </div>
                                     <div className="blog-section-one-text">
                                         <div className="blog-data">

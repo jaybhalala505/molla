@@ -345,7 +345,7 @@ const Header = () => {
                                 </div>
 
                                 <div className="header-logo">
-                                    <img src="/assets/img/molla_header_logo.webp" alt="molla-logo" class />
+                                    <img src="assets/img/molla_header_logo.webp" alt="molla-logo" class />
                                 </div>
                                 <div className="header-right">
                                     <div className="wishlist">
@@ -690,7 +690,7 @@ const Header = () => {
                                                         </ul>
                                                     </div>
                                                     <div className="shop-img">
-                                                        <img src="/assets/img/shop_img.webp" alt="shop_img" />
+                                                        <img src="assets/img/shop_img.webp" alt="shop_img" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -726,7 +726,7 @@ const Header = () => {
 
                                                     </div>
                                                     <div className="product-img">
-                                                        <img src="/assets/img/product_img.webp" alt="product_img" />
+                                                        <img src="assets/img/product_img.webp" alt="product_img" />
                                                     </div>
                                                 </div>
                                             </div>

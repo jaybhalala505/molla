@@ -33,7 +33,7 @@ const CustomerReviews = () => {
                             <SwiperSlide>
                                 <div className="review-section-one">
                                     <div className="review-img">
-                                        <img src="/assets/img/customer_1.webp" alt="customer_1" />
+                                        <img src="assets/img/customer_1.webp" alt="customer_1" />
                                     </div>
                                     <div className="section-one-text">
                                         <div className="review-reat">
@@ -55,7 +55,7 @@ const CustomerReviews = () => {
                             <SwiperSlide>
                                 <div className="review-section-one">
                                     <div className="review-img">
-                                        <img src="/assets/img/customer_2.webp" alt="customer_2" />
+                                        <img src="assets/img/customer_2.webp" alt="customer_2" />
                                     </div>
                                     <div className="section-one-text">
                                         <div className="review-reat">
@@ -77,7 +77,7 @@ const CustomerReviews = () => {
                             <SwiperSlide>
                                 <div className="review-section-one">
                                     <div className="review-img">
-                                        <img src="/assets/img/customer_3.webp" alt="customer_3" />
+                                        <img src="assets/img/customer_3.webp" alt="customer_3" />
                                     </div>
                                     <div className="section-one-text">
                                         <div className="review-reat">

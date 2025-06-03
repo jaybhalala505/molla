@@ -30,7 +30,7 @@ const Footer = () => {
                         <div className="footer_top">
                             <div className="footer_block_one">
                                 <div className="footer_logo">
-                                    <img src="./assets/img/molla_footer_logo.webp" alt="molla-logo" />
+                                    <img src="assets/img/molla_footer_logo.webp" alt="molla-logo" />
                                 </div>
                                 <p>Praesent dapibus, neque id cursus ucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.
                                     Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</p>
@@ -41,7 +41,7 @@ const Footer = () => {
                                     </div>
                                     <div className="payment">
                                         <span>Payment Method</span>
-                                        <img src="./assets/img/paypal.webp" alt="" />
+                                        <img src="assets/img/paypal.webp" alt="" />
                                     </div>
                                 </div>
                             </div>

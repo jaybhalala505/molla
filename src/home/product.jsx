@@ -18,7 +18,7 @@ const Product = () => {
                         <div className="product-items">
                             <div className="product-item-inner">
                                 <div className="product-img">
-                                    <img src="/assets/img/product1.webp" alt="product1" />
+                                    <img src="assets/img/product1.webp" alt="product1" />
                                     <div className="add-to-cart-hover">
                                         <a href="#"><MdAddShoppingCart className='hover-cart' />ADD TO CART</a>
                                     </div>
@@ -44,8 +44,8 @@ const Product = () => {
                             </div>
                             <div className="product-item-inner">
                                 <div className="product-img">
-                                    <img src="/assets/img/product2.webp" alt="product2" />
-                                    <img src="/assets/img/product2_2.webp" alt="product2_2" className='hover-img' />
+                                    <img src="assets/img/product2.webp" alt="product2" />
+                                    <img src="assets/img/product2_2.webp" alt="product2_2" className='hover-img' />
                                     <div className="add-to-cart-hover">
                                         <a href="#"><MdAddShoppingCart className='hover-cart' />ADD TO CART</a>
                                     </div>
@@ -71,8 +71,8 @@ const Product = () => {
                             </div>
                             <div className="product-item-inner">
                                 <div className="product-img">
-                                    <img src="/assets/img/product3.webp" alt="product3" />
-                                    <img src="/assets/img/product3_3.webp" alt="product3_3" className='hover-img' />
+                                    <img src="assets/img/product3.webp" alt="product3" />
+                                    <img src="assets/img/product3_3.webp" alt="product3_3" className='hover-img' />
                                     <div className="add-to-cart-hover">
                                         <a href="#"><MdAddShoppingCart className='hover-cart' />ADD TO CART</a>
                                     </div>
@@ -98,8 +98,8 @@ const Product = () => {
                             </div>
                             <div className="product-item-inner">
                                 <div className="product-img">
-                                    <img src="/assets/img/product4.webp" alt="product4" />
-                                    <img src="/assets/img/product4_4.webp" alt="product4_4" className='hover-img' />
+                                    <img src="assets/img/product4.webp" alt="product4" />
+                                    <img src="assets/img/product4_4.webp" alt="product4_4" className='hover-img' />
                                     <div className="add-to-cart-hover">
                                         <a href="#"><MdAddShoppingCart className='hover-cart' />ADD TO CART</a>
                                     </div>
@@ -129,8 +129,8 @@ const Product = () => {
                            
                             <div className="product-item-inner">
                                 <div className="product-img">
-                                    <img src="/assets/img/product5.webp" alt="product5" />
-                                    <img src="/assets/img/product5_5.webp" alt="product5_5" className='hover-img' />
+                                    <img src="assets/img/product5.webp" alt="product5" />
+                                    <img src="assets/img/product5_5.webp" alt="product5_5" className='hover-img' />
                                     <div className="add-to-cart-hover">
                                         <a href="#"><MdAddShoppingCart className='hover-cart' />ADD TO CART</a>
                                     </div>
@@ -156,8 +156,8 @@ const Product = () => {
                             </div>
                             <div className="product-item-inner">
                                 <div className="product-img">
-                                    <img src="/assets/img/product6.webp" alt="product6" />
-                                    <img src="/assets/img/product6_6.webp" alt="product6_6" className='hover-img' />
+                                    <img src="assets/img/product6.webp" alt="product6" />
+                                    <img src="assets/img/product6_6.webp" alt="product6_6" className='hover-img' />
                                     <div className="add-to-cart-hover">
                                         <a href="#"><MdAddShoppingCart className='hover-cart' />ADD TO CART</a>
                                     </div>
@@ -184,8 +184,8 @@ const Product = () => {
                             </div>
                             <div className="product-item-inner">
                                 <div className="product-img">
-                                    <img src="/assets/img/product7.webp" alt="product7" />
-                                    <img src="/assets/img/product7_7.webp" alt="product7_7" className='hover-img' />
+                                    <img src="assets/img/product7.webp" alt="product7" />
+                                    <img src="assets/img/product7_7.webp" alt="product7_7" className='hover-img' />
                                     <div className="add-to-cart-hover">
                                         <a href="#"><MdAddShoppingCart className='hover-cart' />ADD TO CART</a>
                                     </div>
@@ -211,8 +211,8 @@ const Product = () => {
                             </div>
                             <div className="product-item-inner">
                                 <div className="product-img">
-                                    <img src="/assets/img/product8.webp" alt="product8" />
-                                    <img src="/assets/img/product8_8.webp" alt="product8_8" className='hover-img' />
+                                    <img src="assets/img/product8.webp" alt="product8" />
+                                    <img src="assets/img/product8_8.webp" alt="product8_8" className='hover-img' />
                                     <div className="add-to-cart-hover">
                                         <a href="#"><MdAddShoppingCart className='hover-cart' />ADD TO CART</a>
                                     </div>
@@ -238,8 +238,8 @@ const Product = () => {
                             </div>
                             <div className="product-item-inner">
                                 <div className="product-img">
-                                    <img src="/assets/img/product9.webp" alt="product9" />
-                                    <img src="/assets/img/product9_9.webp" alt="product9_9" className='hover-img' />
+                                    <img src="assets/img/product9.webp" alt="product9" />
+                                    <img src="assets/img/product9_9.webp" alt="product9_9" className='hover-img' />
                                     <div className="add-to-cart-hover">
                                         <a href="#"><MdAddShoppingCart className='hover-cart' />ADD TO CART</a>
                                     </div>
@@ -265,8 +265,8 @@ const Product = () => {
                             </div>
                             <div className="product-item-inner block-ten">
                                 <div className="product-img">
-                                    <img src="/assets/img/product10.webp" alt="product10" />
-                                    <img src="/assets/img/product10_10.webp" alt="product10_10" className='hover-img' />
+                                    <img src="assets/img/product10.webp" alt="product10" />
+                                    <img src="assets/img/product10_10.webp" alt="product10_10" className='hover-img' />
                                     <div className="add-to-cart-hover">
                                         <a href="#"><MdAddShoppingCart className='hover-cart' />ADD TO CART</a>
                                     </div>
